@@ -23,5 +23,44 @@
 			"url" : "O1 release url",
 			"description" : ""	
 		},
+	},
+	
+	"LS1":{
+		"debug":{
+			"version" : "1.0.0",
+			"url" : "LS1 debug url",
+			"description" : ""	
+		},
+		"release":{
+			"version" : "1.0.0",
+			"url" : "LS1 release url",
+			"description" : ""	
+		},
+	},
+	
+	"LB1":{
+		"debug":{
+			"version" : "1.0.0",
+			"url" : "LB1 debug url",
+			"description" : ""	
+		},
+		"release":{
+			"version" : "1.0.0",
+			"url" : "LB1 release url",
+			"description" : ""	
+		},
+	},
+	
+	"BBC":{
+		"debug":{
+			"version" : "1.0.0",
+			"url" : "BBC debug url",
+			"description" : ""	
+		},
+		"release":{
+			"version" : "1.0.0",
+			"url" : "BBC release url",
+			"description" : ""	
+		},
 	}
 }
