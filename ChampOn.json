@@ -2,12 +2,12 @@
 	"S1":{
 		"debug":{
 			"version" : "1.0.0",
-			"url" : "S1 debug url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/S1/debug_S1",
 			"description" : ""	
 		},
 		"release":{
 			"version" : "1.0.0",
-			"url" : "S1 release url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/S1/release_S1",
 			"description" : ""	
 		},
 	},
@@ -15,12 +15,12 @@
 	"O1":{
 		"debug":{
 			"version" : "1.0.0",
-			"url" : "O1 debug url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/O1/debug_O1",
 			"description" : ""	
 		},
 		"release":{
 			"version" : "1.0.0",
-			"url" : "O1 release url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/O1/release_O1",
 			"description" : ""	
 		},
 	},
@@ -28,12 +28,12 @@
 	"LS1":{
 		"debug":{
 			"version" : "1.0.0",
-			"url" : "LS1 debug url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/LS1/debug_LS1",
 			"description" : ""	
 		},
 		"release":{
 			"version" : "1.0.0",
-			"url" : "LS1 release url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/LS1/release_LS1",
 			"description" : ""	
 		},
 	},
@@ -41,12 +41,12 @@
 	"LB1":{
 		"debug":{
 			"version" : "1.0.0",
-			"url" : "LB1 debug url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/LB1/debug_LB1",
 			"description" : ""	
 		},
 		"release":{
 			"version" : "1.0.0",
-			"url" : "LB1 release url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/LB1/release_LB1",
 			"description" : ""	
 		},
 	},
@@ -54,12 +54,12 @@
 	"BBC":{
 		"debug":{
 			"version" : "1.0.0",
-			"url" : "BBC debug url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/BBC/debug_BBC",
 			"description" : ""	
 		},
 		"release":{
 			"version" : "1.0.0",
-			"url" : "BBC release url",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/BBC/release_BBC",
 			"description" : ""	
 		},
 	}
