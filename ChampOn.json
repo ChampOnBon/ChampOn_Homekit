@@ -1,0 +1,27 @@
+{
+	"S1":{
+		"debug":{
+			"version" : "1.0.0",
+			"url" : "S1 debug url",
+			"description" : ""	
+		},
+		"release":{
+			"version" : "1.0.0",
+			"url" : "S1 release url",
+			"description" : ""	
+		},
+	},
+	
+	"O1":{
+		"debug":{
+			"version" : "1.0.0",
+			"url" : "O1 debug url",
+			"description" : ""	
+		},
+		"release":{
+			"version" : "1.0.0",
+			"url" : "O1 release url",
+			"description" : ""	
+		},
+	}
+}
