@@ -62,7 +62,7 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/BBC/release_BBC",
 			"description" : "test"	
 		},
-	}
+	},
 	
 	"SMS1":{
 		"debug":{
