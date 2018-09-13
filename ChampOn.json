@@ -77,5 +77,20 @@
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release_SMS1_mini.zip",
 			"description" : "release"	
 		},
+	},
+	
+	"DW1":{
+		"debug":{
+			"version" : "2.3.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/debug_DW1.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/debug_DW1_mini.zip",
+			"description" : "debug"
+		},
+		"release":{
+			"version" : "2.3.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/release_DW1.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/release_DW1_mini.zip",
+			"description" : "release"	
+		},
 	}
 }
