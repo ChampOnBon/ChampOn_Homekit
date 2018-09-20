@@ -64,6 +64,19 @@
 		},
 	},
 	
+	"S2EU":{
+		"debug":{
+			"version" : "3.3.6",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S2EU/debug_S2EU",
+			"description" : ""	
+		},
+		"release":{
+			"version" : "3.3.6",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S2EU/release_S2EU",
+			"description" : "test"	
+		},
+	},
+	
 	"SMS1":{
 		"debug":{
 			"version" : "2.2.2",
