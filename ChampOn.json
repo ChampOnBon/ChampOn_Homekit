@@ -68,6 +68,8 @@
 		"debug":{
 			"version" : "3.3.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S2/debug_S2",
+			"wifi_ver" : "3",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S2/wifi_fw",
 			"description" : "Onvis 美规双插S2 固件升级测试(苹果)"	
 		},
 		"release":{
