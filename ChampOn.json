@@ -94,13 +94,13 @@
 	
 	"SMS1":{
 		"debug":{
-			"version" : "2.3.3",
+			"version" : "2.3.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1_mini.zip",
 			"description" : "debug"	
 		},
 		"release":{
-			"version" : "2.3.3",
+			"version" : "2.3.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release_SMS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release_SMS1_mini.zip",
 			"description" : "release"	
