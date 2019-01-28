@@ -120,5 +120,18 @@
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/release_DW1_mini.zip",
 			"description" : "release"	
 		},
-	}
+	},
+	
+	"DL1":{
+		"debug":{
+			"version" : "1.0.0",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/iHaper/master/DL1/debug_DL1",
+			"description" : "Init version"	
+		},
+		"release":{
+			"version" : "1.0.0",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/iHaper/master/DL1/release_DL1",
+			"description" : ""	
+		},
+	},
 }
