@@ -122,6 +122,21 @@
 		},
 	},
 	
+	"CS1":{
+		"debug":{
+			"version" : "1.1.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1_mini.zip",
+			"description" : "debug"
+		},
+		"release":{
+			"version" : "1.1.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release_CS1.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release_CS1_mini.zip",
+			"description" : "release"	
+		},
+	},
+	
 	"S3EU":{
 		"debug":{
 			"version" : "1.1.1",
