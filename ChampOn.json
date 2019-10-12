@@ -145,7 +145,7 @@
 			"description" : "TEST"	
 		},
 		"release":{
-			"version" : "1.1.6",
+			"version" : "1.1.7",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/Outlet.bin",
 			"md5" : "12120ac085ba72e3e565cf8a070c118a",
 			"description" : "add ntp"	
