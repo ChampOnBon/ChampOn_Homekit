@@ -139,7 +139,7 @@
 	
 	"S3EU":{
 		"debug":{
-			"version" : "1.1.1",
+			"version" : "1.1.7",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/Outlet.bin",
 			"md5" : "8fd15fb2db9538fd536b7c668c478279",
 			"description" : "TEST"	
