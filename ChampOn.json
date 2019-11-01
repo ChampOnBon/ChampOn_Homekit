@@ -164,4 +164,19 @@
 			"description" : ""	
 		},
 	},
+	
+	"C3":{
+		"debug":{
+			"version" : "1.1.8",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
+			"sha256" : "12120ac085ba72e3e565cf8a070c118a",
+			"description" : "TEST"	
+		},
+		"release":{
+			"version" : "1.1.8",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
+			"sha256" : "12120ac085ba72e3e565cf8a070c118a",
+			"description" : ""	
+		},
+	},
 }
