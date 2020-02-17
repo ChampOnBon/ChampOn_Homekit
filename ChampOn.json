@@ -94,7 +94,7 @@
 	
 	"SMS1":{
 		"debug":{
-			"version" : "2.3.9",
+			"version" : "2.4.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1_mini.zip",
 			"description" : "debug"	
@@ -124,7 +124,7 @@
 	
 	"CS1":{
 		"debug":{
-			"version" : "1.1.4",
+			"version" : "2.0.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1_mini.zip",
 			"description" : "debug"
