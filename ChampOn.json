@@ -135,6 +135,12 @@
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release_CS1_mini.zip",
 			"description" : "release"	
 		},
+		"release2":{
+			"version" : "2.0.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1_mini.zip",
+			"description" : "release2"	
+		},
 	},
 	
 	"S3EU":{
