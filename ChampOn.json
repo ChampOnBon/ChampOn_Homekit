@@ -105,6 +105,12 @@
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release_SMS1_mini.zip",
 			"description" : "release"	
 		},
+		"release2":{
+			"version" : "2.4.1",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release2_SMS1.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release2_SMS1_mini.zip",
+			"description" : "release2"	
+		},
 	},
 	
 	"DW1":{
