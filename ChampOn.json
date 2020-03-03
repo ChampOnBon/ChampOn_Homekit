@@ -157,6 +157,25 @@
 		},
 	},
 	
+	"BA10":{
+		"debug":{
+			"version" : "1.0.1",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/BA10/debug_BA10.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/BA10/debug_BA10_mini.zip",
+			"description" : "debug",
+			"sha256" : "fa0ad0ae18fd02a0f557b53aecd14037b54605345aa0305bb22d123800fa9893",
+			"sha256_2" : "22c559e8d445a64e18e27f1fe7594d458e11b3bd815b10f2338fd7ed71a68db2"
+		},
+		"release":{
+			"version" : "1.0.1",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/BA10/release_BA10.zip",
+			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/BA10/release_BA10_mini.zip",
+			"description" : "release",
+			"sha256" : "fa0ad0ae18fd02a0f557b53aecd14037b54605345aa0305bb22d123800fa9893",
+			"sha256_2" : "22c559e8d445a64e18e27f1fe7594d458e11b3bd815b10f2338fd7ed71a68db2"
+		},
+	},
+	
 	"S3EU":{
 		"debug":{
 			"version" : "1.1.6",
