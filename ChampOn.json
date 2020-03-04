@@ -134,7 +134,7 @@
 	
 	"CS1":{
 		"debug":{
-			"version" : "2.0.4",
+			"version" : "2.0.5",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1_mini.zip",
 			"description" : "debug",
