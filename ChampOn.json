@@ -182,16 +182,16 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2_mini.zip",
 			"description" : "debug",
-			"sha256" : "d314d757e14b5ea2b6ec420a02b15fe5f58dca8257cecf3e2a190fc6947c27d0",
-			"sha256_2" : "8f1a14bd16fb94bbbb91f894274f96f443e6948acc6f14e5e29be8460b795146"
+			"sha256" : "166a6e89822389cb723c5133954e1b80cb5ddb08ea7c24f7d8ad0250d808c881",
+			"sha256_2" : "8e2a39c4e783e42b18fb023e0babae40e17060958b83c294322923344dbe0485"
 		},
 		"release":{
 			"version" : "1.0.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2_mini.zip",
 			"description" : "release",
-			"sha256" : "d314d757e14b5ea2b6ec420a02b15fe5f58dca8257cecf3e2a190fc6947c27d0",
-			"sha256_2" : "8f1a14bd16fb94bbbb91f894274f96f443e6948acc6f14e5e29be8460b795146"
+			"sha256" : "166a6e89822389cb723c5133954e1b80cb5ddb08ea7c24f7d8ad0250d808c881",
+			"sha256_2" : "8e2a39c4e783e42b18fb023e0babae40e17060958b83c294322923344dbe0485"
 		},
 	},
 	
