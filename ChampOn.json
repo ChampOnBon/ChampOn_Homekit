@@ -186,7 +186,7 @@
 			"sha256_2" : "b61a06a381cad5a3d51a0821a2d2bd4754c2ffc7aef7a2823709cbf45f8aed23"
 		},
 		"release":{
-			"version" : "1.0.2",
+			"version" : "1.0.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2_mini.zip",
 			"description" : "release",
