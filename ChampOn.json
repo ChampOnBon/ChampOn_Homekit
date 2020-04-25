@@ -182,8 +182,8 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2_mini.zip",
 			"description" : "debug",
-			"sha256" : "dbed2d1197a34ef1ee66cc2dd8b19f3858d705ae0b3a65a0050e601f2e5b26f4",
-			"sha256_2" : "0d46af4e2abeb7e5c0bf0a75b4035f510cec4e6b4ee9c7cd0f260ffbbaccf2a8"
+			"sha256" : "a6168a232607d263d1b16d65d1c27697790634c840565a516c68a62d3c5244dc",
+			"sha256_2" : "57bd3e572f6e8164f17c7ea3d8a5bbd96fa905664fa4afc259ca8de7d6b1afe4"
 		},
 		"release":{
 			"version" : "1.0.1",
