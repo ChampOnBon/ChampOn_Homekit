@@ -163,8 +163,8 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/BA10/debug_BA10.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/BA10/debug_BA10_mini.zip",
 			"description" : "debug",
-			"sha256" : "c8aece27a83bf819d19c849e25dbf55803a1a8af4ffe3285cdc9392ea1ac4e9c",
-			"sha256_2" : "191a05770fd3bd06457ec14eb93ec1d94a992109ca9873578f9440a590958376"
+			"sha256" : "2b23b8f803b32ed69afda8b2e4cd8600d6fdcd12d280c35a8a9deea8b12ac7b2",
+			"sha256_2" : "9469a2cd2697544b0d4d192768e26d46883c378942e9bd0cc94b12bab0a4b170"
 		},
 		"release":{
 			"version" : "1.0.2",
