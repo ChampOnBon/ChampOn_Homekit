@@ -53,9 +53,9 @@
 	
 	"BBC":{
 		"debug":{
-			"version" : "1.0.0",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/BBC/debug_BBC",
-			"description" : ""	
+			"version" : "4.1.4",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/ETON/master/BBC/debug_bbc_4.1.4",
+			"description" : "Support new Device Cloud"	
 		},
 		"release":{
 			"version" : "4.1.4",
