@@ -148,12 +148,12 @@
 			"description" : "release"	
 		},
 		"release2":{
-			"version" : "2.0.7",
+			"version" : "2.1.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1_mini.zip",
 			"description" : "release2",
-			"sha256" : "c19264242300a50805a10d66c17cb5326e7a409bcbdde101069ce0b7d3b9bd1d",
-			"sha256_2" : "9a75f9b37cf0151cca58075b90f56d2f4aa664fb244d57b995f0348e2a60d3f2"
+			"sha256" : "96fe464668547b88802ae397db85a102332751500be914602a0ac5f56cf3e2cc",
+			"sha256_2" : "0f296be1f4547abe319835256c1b3aa100359382a62dc4aede7934e4c66d1fcb"
 		},
 	},
 	
