@@ -232,7 +232,7 @@
 		},
 		"release":{
 			"version" : "1.4.4",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera-release",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
 			"sha256" : "e4deaaa7898f52a24a04cc9bde958f6f69e6a177679650dc71ee3ef9042e96aa",
 			"description" : ""	
 		},
