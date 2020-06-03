@@ -227,13 +227,13 @@
 		"debug":{
 			"version" : "1.4.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
-			"sha256" : "e4deaaa7898f52a24a04cc9bde958f6f69e6a177679650dc71ee3ef9042e96aa",
+			"sha256" : "bf373f73bb64b7d17c1e341593544274af8da305da2b2c0e7d3415f8fbbc39e0",
 			"description" : "TEST"	
 		},
 		"release":{
-			"version" : "1.0.0",
+			"version" : "1.4.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
-			"sha256" : "e4deaaa7898f52a24a04cc9bde958f6f69e6a177679650dc71ee3ef9042e96aa",
+			"sha256" : "bf373f73bb64b7d17c1e341593544274af8da305da2b2c0e7d3415f8fbbc39e0",
 			"description" : ""	
 		},
 	},
