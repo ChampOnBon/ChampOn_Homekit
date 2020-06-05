@@ -138,8 +138,8 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1_mini.zip",
 			"description" : "debug",
-			"sha256" : "427fb7a34ecc3c5ecfb92a0881a2ad6ee50a249388f75830ea5ebeedf8a5600c",
-			"sha256_2" : "b899a1983b197021d295a902275260a4d8a2b6847cfe3d24a1cc3240b70e3baa"
+			"sha256" : "4d12c74d6acb792876863793987920c4e82c47d8eb3bb7a804bb711da86ccc48",
+			"sha256_2" : "59c73781467698b7d31491e8d749339ac51a57b002ba5c0bb241483cc8c8ce8c"
 		},
 		"release":{
 			"version" : "1.1.4",
