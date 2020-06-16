@@ -197,15 +197,15 @@
 	
 	"S3EU":{
 		"debug":{
-			"version" : "1.2.2",
+			"version" : "1.2.7",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/debug_S3EU.bin",
-			"sha256" : "49754fa1d298574ab8dc2812552f1b3cd624cd4d2df37922c8ad836d5a66d86b",
+			"sha256" : "9536d0cf859ed9006b255ec4b3346fefaf606d586b491cd42b14c3439beb4d36",
 			"description" : "debug"	
 		},
 		"release":{
-			"version" : "1.2.2",
+			"version" : "1.2.7",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/release_S3EU.bin",
-			"sha256" : "49754fa1d298574ab8dc2812552f1b3cd624cd4d2df37922c8ad836d5a66d86b",
+			"sha256" : "9536d0cf859ed9006b255ec4b3346fefaf606d586b491cd42b14c3439beb4d36",
 			"description" : "release"	
 		},
 	},
