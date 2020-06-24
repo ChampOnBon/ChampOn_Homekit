@@ -225,9 +225,9 @@
 	
 	"C3":{
 		"debug":{
-			"version" : "1.4.4",
+			"version" : "1.4.5",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
-			"sha256" : "bf373f73bb64b7d17c1e341593544274af8da305da2b2c0e7d3415f8fbbc39e0",
+			"sha256" : "4cba80e7ea363bb21caa8218021b0019600dd4e3ed3b0ebb09a7f1e5a44700a9",
 			"description" : "TEST"	
 		},
 		"release":{
