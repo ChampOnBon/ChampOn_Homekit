@@ -203,9 +203,9 @@
 			"description" : "debug"	
 		},
 		"release":{
-			"version" : "1.2.10",
+			"version" : "1.2.11",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/release_S3EU.bin",
-			"sha256" : "c8d08690cdc40ff9a80974c6b6dafd75fe00ecbd07f624bfb986328b6abf7d57",
+			"sha256" : "7ddf08fb03c0bf97b160a71ec607618a3f82c39968232e1c536fe9e6943f9edd",
 			"description" : "release"	
 		},
 	},
