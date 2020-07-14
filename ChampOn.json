@@ -9,7 +9,7 @@
 			"version" : "1.0.0",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/S1/release_S1",
 			"description" : ""	
-		},
+		}
 	},
 	
 	"O1":{
@@ -22,7 +22,7 @@
 			"version" : "1.0.0",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/O1/release_O1",
 			"description" : ""	
-		},
+		}
 	},
 	
 	"LS1":{
@@ -31,11 +31,11 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/LS1/debug_LS1",
 			"description" : ""	
 		},
-		"release":
+		"release":{
 			"version" : "1.0.0",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/LS1/release_LS1",
 			"description" : ""	
-		},
+		}
 	},
 	
 	"LB1":{
@@ -48,7 +48,7 @@
 			"version" : "1.0.0",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/ChampOn_Homekit/master/LB1/release_LB1",
 			"description" : ""	
-		},
+		}
 	},
 	
 	"BBC":{
@@ -61,7 +61,7 @@
 			"version" : "4.1.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/ETON/master/BBC/debug_bbc_4.1.4",
 			"description" : "Support new Device Cloud"	
-		},
+		}
 	},
 	
 	"S2":{
@@ -76,7 +76,7 @@
 			"version" : "3.3.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S2/release_S2",
 			"description" : "Onvis S2 固件升级"	
-		},
+		}
 	},
 	
 	"S2EU":{
@@ -89,7 +89,7 @@
 			"version" : "3.3.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S2EU/release_S2EU",
 			"description" : "test"	
-		},
+		}
 	},
 	
 	"SMS1":{
@@ -114,7 +114,7 @@
 			"description" : "release2",
 			"sha256" : "1317525ec384e00ceab7185b8f94e93c898a6b0be727971f19d27943113906dd",
 			"sha256_2" : "3e596f7077432748d5bdc36c84dc24a64dd1c67bef5a04dd173eac41a3feac8d"	
-		},
+		}
 	},
 	
 	"DW1":{
@@ -129,7 +129,7 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/release_DW1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/release_DW1_mini.zip",
 			"description" : "release"	
-		},
+		}
 	},
 	
 	"CS1":{
@@ -154,7 +154,7 @@
 			"description" : "release2",
 			"sha256" : "96fe464668547b88802ae397db85a102332751500be914602a0ac5f56cf3e2cc",
 			"sha256_2" : "0f296be1f4547abe319835256c1b3aa100359382a62dc4aede7934e4c66d1fcb"
-		},
+		}
 	},
 	
 	"BA10":{
@@ -173,7 +173,7 @@
 			"description" : "release",
 			"sha256" : "6e8070cfd0db7c6974c41b791e5b32287e653562644b25a779c28a68fb6ca256",
 			"sha256_2" : "2cf1238a252cc3912aedaa3e414f73e297c5f833461e435914c56798db413e78"
-		},
+		}
 	},
 	
 	"CT2":{
@@ -192,7 +192,7 @@
 			"description" : "release",
 			"sha256" : "f428b04f549234bbe4383c7c9f4c61c7d930cc919161ed0cc97a2805feabd81d",
 			"sha256_2" : "a1f2335ee5ddc80b72c5a8b5c41cd72ff884c399695f38bc112e075c62478f65"
-		},
+		}
 	},
 	
 	"S3EU":{
@@ -207,7 +207,7 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/release_S3EU.bin",
 			"sha256" : "13e8c37e0827d0d7059b5093200a8f8b94b5aeee4927e9968bdf582ef39a9c2b",
 			"description" : "release"	
-		},
+		}
 	},
 	
 	"DL1":{
@@ -220,7 +220,7 @@
 			"version" : "1.3.5",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/iHaper/master/DL1/DL1_1.3.5",
 			"description" : ""	
-		},
+		}
 	},
 	
 	"C3":{
@@ -235,6 +235,6 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
 			"sha256" : "4465676fbcc9ecf860a0e6f21290274838866fc3f1f5379760105fb583c79565",
 			"description" : ""	
-		},
-	},
+		}
+	}
 }
