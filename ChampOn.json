@@ -231,9 +231,9 @@
 			"description" : "Homekit re-certification"	
 		},
 		"release":{
-			"version" : "1.5.3",
+			"version" : "1.5.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
-			"sha256" : "e1fac4fea15065ee11c4561b6564bf7cbe4cf9c197ac5f42a21e0745db40de0e",
+			"sha256" : "43771b0ac7230d3d9cd95f55e3234df0da67b954c7074908fa910c17b087f230",
 			"description" : ""	
 		}
 	},
