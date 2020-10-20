@@ -225,10 +225,10 @@
 	
 	"C3":{
 		"debug":{
-			"version" : "1.5.4",
+			"version" : "1.5.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera-debug",
-			"sha256" : "c8cdc6846f31523fb5bc851fe52a3543716794c4cae15504796a34a004f87d2a",
-			"description" : "TEST"	
+			"sha256" : "43771b0ac7230d3d9cd95f55e3234df0da67b954c7074908fa910c17b087f230",
+			"description" : "Homekit re-certification"	
 		},
 		"release":{
 			"version" : "1.5.3",
