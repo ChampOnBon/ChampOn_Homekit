@@ -94,12 +94,12 @@
 	
 	"SMS1":{
 		"debug":{
-			"version" : "2.5.3",
+			"version" : "2.5.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1_mini.zip",
 			"description" : "debug",
-			"sha256" : "4269355b1b6db2c3c719de46011ed8f871c9f81d82cedc1f4dd79f6e40349859",
-			"sha256_2" : "35b0bb08d47e74552859049e147d0e7c1bea4023984c3e3b5b0b861b4f210469"
+			"sha256" : "03279b3e762600b6097014c2cf8fc61fbe87761b9b674ab41b22d495c15b9d1f",
+			"sha256_2" : "b3f31b510da56b09490a42d0572c6253eefbd845ba03352d8acef4bb91a59827"
 		},
 		"release":{
 			"version" : "2.3.9",
@@ -138,8 +138,8 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1_mini.zip",
 			"description" : "Change the category and primary service to Security System",
-			"sha256" : "f58d9774345723a900e1f85c79ab1f0b5c3d6f3716fb809a0db135cb9febf617",
-			"sha256_2" : "5b99aa2b82c88beaa50130a678f2d9762e8b512fcb8b390cb1901115e6f2c27e"
+			"sha256" : "3aae07a46507663819196758961dbdd736d9f5b8f282c815de2fd791d99add17",
+			"sha256_2" : "513b77bb799585fad511772706d8c211e53eaa0f44117c303f2c920699f6916b"
 		},
 		"release":{
 			"version" : "1.1.4",
@@ -178,12 +178,12 @@
 	
 	"CT2":{
 		"debug":{
-			"version" : "1.2.1",
+			"version" : "1.2.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2_mini.zip",
 			"description" : "debug",
-			"sha256" : "be17811d8e56e5cffb0ef7e87f52f703886ac932b0eabcd3def9ae7d4c864c88",
-			"sha256_2" : "d912eb48baacd9ca061493208c8d49863a56a2d4b5b343b38b7fd43dc54612cc"
+			"sha256" : "336c17c94a1dc6a1de1268f503e1f7971ddb97c26d2331ccdaee7b1c85b479d4",
+			"sha256_2" : "610b7b025a68aac3e7752cd56e658fc61a05de97435d68b37f6547a2e9b8cac8"
 		},
 		"release2":{
 			"version" : "1.1.4",
