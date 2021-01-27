@@ -134,12 +134,12 @@
 	
 	"CS1":{
 		"debug":{
-			"version" : "2.1.12",
+			"version" : "2.1.13",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1_mini.zip",
 			"description" : "Change the category and primary service to Security System",
-			"sha256" : "3aae07a46507663819196758961dbdd736d9f5b8f282c815de2fd791d99add17",
-			"sha256_2" : "513b77bb799585fad511772706d8c211e53eaa0f44117c303f2c920699f6916b"
+			"sha256" : "830c59565a82e4fad5cf82d0ef56d1a1b7ed65f62bf96d1aba56f64669e5594c",
+			"sha256_2" : "2fd1b864750bcb739439e8f6e0c92549070cfec1e187422a0826f21c74ea5a05"
 		},
 		"release":{
 			"version" : "1.1.4",
