@@ -98,8 +98,8 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1_mini.zip",
 			"description" : "debug",
-			"sha256" : "63c1bd6f9a0e0bffe221d0b78485c595ea9a803627e3cf26c9c81e8b031ce5dc",
-			"sha256_2" : "594a6f6449da7190b5bdd69083801317587a0a490d33a1e149e3fd4f82031cce"
+			"sha256" : "fd0d887481162f373506542d7cbee8f36e18d30c127499534e66f2f5e31a566f",
+			"sha256_2" : "e5e96012d354645c9dddcdb8aacdd7fc5613fe3730380c98ae1094a9b92feb74"
 		},
 		"release":{
 			"version" : "2.3.9",
