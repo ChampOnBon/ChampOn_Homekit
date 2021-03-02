@@ -94,12 +94,12 @@
 	
 	"SMS1":{
 		"debug":{
-			"version" : "2.5.8",
+			"version" : "2.5.9",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/debug_SMS1_mini.zip",
 			"description" : "debug",
-			"sha256" : "bf9158c01f5b60b08443d0f6464e044c0a7bbba78043cec13fe5dfb4f5af3e24",
-			"sha256_2" : "ac7a7962b6aba0d682e964acf7faa06d75cb70be1509534a66f3c0091289851a"
+			"sha256" : "ff0c86b6d17f04d63f6cdf6bf2bff18f7e2b7770f2a71cfe01862d20f79fc432",
+			"sha256_2" : "af23588403870216afbbf2632f7b12a8130b4aaecbd487f99bebe5a0e562b37e"
 		},
 		"release":{
 			"version" : "2.3.9",
@@ -134,12 +134,12 @@
 	
 	"CS1":{
 		"debug":{
-			"version" : "2.1.16",
+			"version" : "2.1.17",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/debug_CS1_mini.zip",
 			"description" : "Change the category and primary service to Security System",
-			"sha256" : "f08c36ad3439447bcd7983337001c99ad1a50621e91702fe2b14e45abdf3d332",
-			"sha256_2" : "00f1554ab1a4437a0e80f58c99180e799e2e6cdef51f086c255c677332df7057"
+			"sha256" : "80fe73e6e5d32ef0bb0f9405e216a4fc7a3c656b7dc57208381d223859c4a29f",
+			"sha256_2" : "9e0850eb083d5f6f40fb4105b1917d799a783ff1e4e23fbe5fd88c16f123bf04"
 		},
 		"release":{
 			"version" : "1.1.4",
@@ -178,12 +178,12 @@
 	
 	"CT2":{
 		"debug":{
-			"version" : "1.2.6",
+			"version" : "1.2.7",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/debug_CT2_mini.zip",
 			"description" : "debug",
-			"sha256" : "e5e642ea8beed812c7d814f132bdb80ea68568cabb54292456d80f1e1b7647c8",
-			"sha256_2" : "355e85c617be45842ace2fe262de0754cf3564bcd8a1325a297d12b1b026547a"
+			"sha256" : "e188b60846264b2021cb85010a2988ae24d77f3013b3f040a89cb08e321b8544",
+			"sha256_2" : "635abc553ca7529741968f6fd15fd84350b899ec1b8adb1330cdf362f0db739e"
 		},
 		"release2":{
 			"version" : "1.1.4",
