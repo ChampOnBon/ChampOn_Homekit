@@ -248,7 +248,7 @@
 		"debug":{
 			"version" : "2.0.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/debug_K1.bin",
-			"sha256" : "afe988e361ee96e9a67fbf22ed3e1ed443440fba7a5ea3b3eac3f8a4361f3ecb",
+			"sha256" : "a231930e1583ee5b80024e12cdf053f2380d8d6412f6404a4ff4e651f8a2dd6e",
 			"description" : "debug"	
 		},
 		"release":{
