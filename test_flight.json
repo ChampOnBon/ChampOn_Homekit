@@ -8,7 +8,7 @@
 		},
 		"release":{
 			"version" : "2.0.13",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/testflight_K1.bin",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/Test/K1/release_K1.bin",
 			"sha256" : "6ec9286547f96014d116d71147660096d7ede09bdf0b0d686c70d21d916a85c1",
 			"description" : "release"	
 		}
