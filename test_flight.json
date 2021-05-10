@@ -1,0 +1,16 @@
+{
+	"K1":{
+		"debug":{
+			"version" : "2.0.13",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/debug_K1.bin",
+			"sha256" : "ff7b1217809ebb7bf242687b89cec40872ecd9a7bb6b8ba4b1aead86147ec8dc",
+			"description" : "debug"	
+		},
+		"release":{
+			"version" : "2.0.13",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/testflight_K1.bin",
+			"sha256" : "6ec9286547f96014d116d71147660096d7ede09bdf0b0d686c70d21d916a85c1",
+			"description" : "release"	
+		}
+	},
+}
