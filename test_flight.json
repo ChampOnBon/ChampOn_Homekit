@@ -9,7 +9,7 @@
 		"release":{
 			"version" : "2.0.13",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/Test/K1/release_K1.bin",
-			"sha256" : "6ec9286547f96014d116d71147660096d7ede09bdf0b0d686c70d21d916a85c1",
+			"sha256" : "0ef79dd22d504d6a41bcdf0e9e96470176b0b0c38a1b95dd8a85c3ba80f840ec",
 			"description" : "release"	
 		}
 	},
