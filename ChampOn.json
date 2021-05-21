@@ -186,18 +186,12 @@
 			"sha256_2" : "decc3e3d5415f61856d0f5912614ec0120018a38f5cd954f8aa812bf5693bd6d"
 		},
 		"release2":{
-			"version" : "1.1.4",
+			"version" : "1.2.8",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2.zip",
 			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2_mini.zip",
 			"description" : "release",
-			"sha256" : "f428b04f549234bbe4383c7c9f4c61c7d930cc919161ed0cc97a2805feabd81d",
-			"sha256_2" : "a1f2335ee5ddc80b72c5a8b5c41cd72ff884c399695f38bc112e075c62478f65"
-		},
-		"for_dfu_bug":{
-			"version" : "1.2.1",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/for_dfu_bug_CT2.zip",
-			"description" : "release",
-			"sha256" : "2d60adc9786bea13c3dc6d8e0cfcb08630b673759e85e459761c6235406329a9",
+			"sha256" : "b0c9c35cc719930fb85f78b3d3a77f2697d1f1d348089d8a60f39bcf7cbd7859",
+			"sha256_2" : "decc3e3d5415f61856d0f5912614ec0120018a38f5cd954f8aa812bf5693bd6d"
 		}
 	},
 	
