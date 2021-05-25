@@ -199,7 +199,7 @@
 		"debug":{
 			"version" : "2.1.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/debug_S3EU.bin",
-			"sha256" : "10b05f38ea85e0d88a32e9764329e18e9c53b5d579c6a0ac58a3d4d223d401a9",
+			"sha256" : "16fad36c50233840c3e392ef2e63ee9021fe57c91f000258275739f7d4f3ce7e",
 			"description" : "debug"	
 		},
 		"release":{
