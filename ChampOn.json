@@ -246,10 +246,9 @@
 			"description" : "debug"	
 		},
 		"release2":{
-			"version" : "2.0.9",
-			"app_ver" : "3.3.8",
+			"version" : "2.1.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/release_K1.bin",
-			"sha256" : "1fb776f79303cc5e6c4e2277a1d2ca82edf83f0c316bec9e822da7d6ef0fbfa9",
+			"sha256" : "079615badaaf42801fd931651d5c762b8e3066f0e1a116f3b336ff5eabf98b0a",
 			"description" : "release"	
 		}
 	},
