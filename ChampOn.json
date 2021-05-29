@@ -245,7 +245,7 @@
 			"sha256" : "613e2d035746cb2118d0166451343b11a66b7cdfe078242bc0d24e6027dc3a20",
 			"description" : "debug"	
 		},
-		"release2":{
+		"release":{
 			"version" : "2.1.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/release_K1.bin",
 			"sha256" : "079615badaaf42801fd931651d5c762b8e3066f0e1a116f3b336ff5eabf98b0a",
