@@ -197,9 +197,9 @@
 	
 	"S3EU":{
 		"debug":{
-			"version" : "2.1.6",
+			"version" : "2.2.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/debug_S3EU.bin",
-			"sha256" : "e6f4c5a9c63e618a7ff4373ae238e58e5abcf1fa9a0e2bdda577c3f702296cda",
+			"sha256" : "5e7f968058496af70be7a6dfd7d260e1999172517173a581678629a48dc2a4e2",
 			"description" : "debug"	
 		},
 		"release":{
@@ -240,9 +240,9 @@
 	
 	"K1":{
 		"debug":{
-			"version" : "2.1.5",
+			"version" : "2.2.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/debug_K1.bin",
-			"sha256" : "58938a50fac0048264b1bce6923d897da30ceb7ce59b62b680b1327b329b69c3",
+			"sha256" : "c70d88706294fe98ce73fb6a6e64778f11ae46bfc3f556d967c8f7a18ea3f6f2",
 			"description" : "debug"	
 		},
 		"release":{
