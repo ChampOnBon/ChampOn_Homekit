@@ -199,7 +199,7 @@
 		"debug":{
 			"version" : "2.2.3",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S3EU/debug_S3EU.bin",
-			"sha256" : "cfe20f26eda685e9815319a4319094b67aff4648a84f99de1818912db44024b0",
+			"sha256" : "4fb15d15d23bddadeb27144278a570c20016d312c061b863e9d9d305bc1b6597",
 			"description" : "debug"	
 		},
 		"release":{
@@ -242,7 +242,7 @@
 		"debug":{
 			"version" : "2.2.3",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/K1/debug_K1.bin",
-			"sha256" : "78c2a8807dac5a29ef7de8af7df515427fcb987fa31a63c2e253b793da7b867",
+			"sha256" : "b94139ea66ee43f47a800212675aee926812da6ae6168732c19ee9160cf9f362",
 			"description" : "debug"	
 		},
 		"release":{
