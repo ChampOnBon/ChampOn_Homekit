@@ -267,4 +267,19 @@
 			"description" : "release"	
 		}
 	},
+	
+	"HS2":{
+		"debug":{
+			"version" : "1.1.1",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/debug.bin",
+			"sha256" : "2e13a071a44b86d9cd439667a83a1bef96a6c9d2d2e56c0461e5596b9330d25c",
+			"description" : "debug"	
+		},
+		"release":{
+			"version" : "1.1.1",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/release.bin",
+			"sha256" : "612f10da89ced97491186bd9e8d50e6e5b7a1b44edb4dcdd08e75505794e4ce8",
+			"description" : "release"	
+		}
+	},
 }
