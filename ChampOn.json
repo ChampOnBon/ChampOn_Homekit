@@ -261,7 +261,7 @@
 			"description" : "debug"	
 		},
 		"release":{
-			"version" : "1.5.1",
+			"version" : "1.0.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/release.bin",
 			"sha256" : "a2693488aed1eda990542f2a1dffcd1ce26b3063f0d73312f35e12786d5e2dd8",
 			"description" : "release"	
