@@ -272,9 +272,9 @@
 	
 	"HS2":{
 		"debug":{
-			"version" : "1.2.2",
+			"version" : "1.0.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/debug.bin",
-			"sha256" : "577e2a10ca34a2f49bc235e7c885f8cb2e16fe9c092c76013b0decea6afb883b",
+			"sha256" : "d284db72140f96415dcf05dd3c6fb1ef11fea9409cb0d82c07630f14d92535b0",
 			"description" : "debug"	
 		},
 		"release":{
