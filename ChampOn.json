@@ -255,9 +255,9 @@
 	
 	"CT3":{
 		"debug":{
-			"version" : "1.4.4",
+			"version" : "1.4.5",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/debug.bin",
-			"sha256" : "e78b571e865bb78c1963008bfe3f6f22fa8c7150ee638bbe18f005844d873294",
+			"sha256" : "849522d6e51eed60393ab282e970c8ba042337e221df68ad5eaf0e7dfcd14db2",
 			"description" : "debug",
 			"force" : true
 		},
