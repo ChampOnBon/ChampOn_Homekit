@@ -278,9 +278,9 @@
 			"description" : "debug"	
 		},
 		"release":{
-			"version" : "1.0.1",
+			"version" : "1.2.5",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/release.bin",
-			"sha256" : "7e77d7b3576b7f28a78a3e1f1db0df4325d235d700d344e7e456f8e58d4d8a85",
+			"sha256" : "d7833bd473ede964affb40d08a25411bbade3e6d1025caa3e1732e32c3e00fbf",
 			"description" : "release"	
 		}
 	},
