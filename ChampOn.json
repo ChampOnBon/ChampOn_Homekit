@@ -285,37 +285,6 @@
 		}
 	},
 	
-	"S4":{
-		"debug":{
-			"version" : "1.1.2",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S4/debug.bin",
-			"sha256" : "0b80dc5aeac9d3123556f8c2f952c009858615f3b366a02bea859e15b0fb22f0",
-			"description" : "debug"	
-		},
-		"release":{
-			"version" : "1.0.1",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S4/release.bin",
-			"sha256" : "7e77d7b3576b7f28a78a3e1f1db0df4325d235d700d344e7e456f8e58d4d8a85",
-			"description" : "release"	
-		}
-	},
-	
-	"S4EU":{
-		"debug":{
-			"version" : "1.1.2",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S4EU/debug.bin",
-			"sha256" : "662968e95fe1a2148d4d19a22a8f2401c19d8ed3263d3c808f3bbc9a66b5855e",
-			"description" : "debug"	
-		},
-		"release":{
-			"version" : "1.0.1",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S4EU/release.bin",
-			"sha256" : "7e77d7b3576b7f28a78a3e1f1db0df4325d235d700d344e7e456f8e58d4d8a85",
-			"description" : "release"	
-		}
-	},
-	
-	
 	"SMS2":{
 		"debug":{
 			"version" : "1.3.6",
