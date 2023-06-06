@@ -289,7 +289,7 @@
 		"debug":{
 			"version" : "1.4.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS2/debug.bin",
-			"sha256" : "1cbd9fde22c92e788665346fce1f98d92123893043dfe0c9d5dfbc6f77c10377",
+			"sha256" : "6030b018a6177b57ec365c16d9462936224edc936176154058316b33d6fe0ff1",
 			"description" : "debug"	
 		},
 		"release":{
