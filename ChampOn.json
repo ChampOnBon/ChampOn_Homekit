@@ -257,12 +257,12 @@
 		"debug":{
 			"version" : "1.6.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/debug.bin",
-			"sha256" : "0a2dece352b8755bf507aa321eb1666296a2ad79a050c477f8ae67433cc86a32",
+			"sha256" : "c2ee31e75e9d84b70a94f2639295a6375972fe880711eef8e455cf506282aee7",
 			"description" : "debug",
 			"force" : true
 		},
 		"release":{
-			"version" : "1.5.3",
+			"version" : "1.6.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/release.bin",
 			"sha256" : "c2ee31e75e9d84b70a94f2639295a6375972fe880711eef8e455cf506282aee7",
 			"description" : "release",
