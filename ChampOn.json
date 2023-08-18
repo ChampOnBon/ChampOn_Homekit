@@ -289,16 +289,16 @@
 	
 	"SMS2":{
 		"debug":{
-			"version" : "1.5.2",
+			"version" : "1.5.3",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS2/debug.bin",
-			"sha256" : "704997afb50fdc437cbf3eea1327f461eead6aa9b04f6e69a7e35ab56951dcca",
+			"sha256" : "962e65d71d02fb87a38ebf476214c76314e19eb98bf8c1742e6eab4361ad1b58",
 			"description" : "debug",
 			"force" : true
 		},
 		"release":{
-			"version" : "1.5.2",
+			"version" : "1.5.3",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS2/release.bin",
-			"sha256" : "704997afb50fdc437cbf3eea1327f461eead6aa9b04f6e69a7e35ab56951dcca",
+			"sha256" : "962e65d71d02fb87a38ebf476214c76314e19eb98bf8c1742e6eab4361ad1b58",
 			"description" : "release"	
 		}
 	}
