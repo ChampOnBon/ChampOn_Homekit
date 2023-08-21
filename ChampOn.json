@@ -279,9 +279,9 @@
 			"force" : true
 		},
 		"release":{
-			"version" : "1.5.2",
+			"version" : "1.4.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/release.bin",
-			"sha256" : "eecc6573ed2cde80cd8d0cc3ffdc16d2f5c90d06a33e7256348e9f38d722b79a",
+			"sha256" : "30d526a60595ef1f9e1eb95398ce8bad60ee0e459ba6318c942b4c700e874b6b",
 			"description" : "release",
 			"force" : true	
 		}
