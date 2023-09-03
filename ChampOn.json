@@ -255,9 +255,9 @@
 	
 	"CT3":{
 		"debug":{
-			"version" : "1.7.1",
+			"version" : "1.8.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/debug.bin",
-			"sha256" : "28ed224655675f35955d6eb3020bd5ef61efb7c78e6d1cd423dab763baa57472",
+			"sha256" : "9f4ba7270a99f3c0b2a37415906319981123f947fe918a1dd6605d4f34651b83",
 			"description" : "debug",
 			"force" : true
 		},
@@ -272,9 +272,9 @@
 	
 	"HS2":{
 		"debug":{
-			"version" : "1.5.1",
+			"version" : "1.6.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/debug.bin",
-			"sha256" : "ea279c15b45336533ee806e800ac86bc8a4905fc8988a6f7c6dd1f9840524dd8",
+			"sha256" : "779de047e333ab508a3f21dd7f7203286ffcc0a770f0d6c65e3f7e4ddc71d25d",
 			"description" : "debug",
 			"force" : true
 		},
@@ -289,9 +289,9 @@
 	
 	"SMS2":{
 		"debug":{
-			"version" : "1.5.3",
+			"version" : "1.6.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS2/debug.bin",
-			"sha256" : "962e65d71d02fb87a38ebf476214c76314e19eb98bf8c1742e6eab4361ad1b58",
+			"sha256" : "7dab4c1fa6ceeb875ea3ac86a70cb3bd2e318f2f919914a5b2bbffb0813fb689",
 			"description" : "debug",
 			"force" : true
 		},
