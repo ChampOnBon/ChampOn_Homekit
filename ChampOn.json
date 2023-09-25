@@ -296,9 +296,9 @@
 			"force" : true
 		},
 		"release":{
-			"version" : "1.5.3",
+			"version" : "1.5.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS2/release.bin",
-			"sha256" : "962e65d71d02fb87a38ebf476214c76314e19eb98bf8c1742e6eab4361ad1b58",
+			"sha256" : "89d17104986acac5ac7a8cacba59395b064dfc2547f4f5ba9e9f0ed7807e7b10",
 			"description" : "release"	
 		}
 	}
