@@ -289,9 +289,9 @@
 	
 	"SMS2":{
 		"debug":{
-			"version" : "1.6.1",
+			"version" : "1.6.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS2/debug.bin",
-			"sha256" : "38ba5a20fcc08dc415bca0edc5d9338d248536137dfaf4a413de47717f45204f",
+			"sha256" : "6c0bb389eae7abb91184e0da5a61ce969b25530dbccde24c3144b5b165e767f6",
 			"description" : "debug",
 			"force" : true
 		},
