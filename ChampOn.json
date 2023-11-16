@@ -262,9 +262,9 @@
 			"force" : true
 		},
 		"release":{
-			"version" : "1.6.1",
+			"version" : "1.8.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/release.bin",
-			"sha256" : "c2ee31e75e9d84b70a94f2639295a6375972fe880711eef8e455cf506282aee7",
+			"sha256" : "8039d140b28cd09fd8759419388a7adc8b53df460c60a54acdc5619c6ab873a8",
 			"description" : "release",
 			"force" : false
 		}
@@ -279,9 +279,9 @@
 			"force" : true
 		},
 		"release":{
-			"version" : "1.4.1",
+			"version" : "1.6.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/release.bin",
-			"sha256" : "30d526a60595ef1f9e1eb95398ce8bad60ee0e459ba6318c942b4c700e874b6b",
+			"sha256" : "07e9da9a47f77c4b1edb28d95d08a3ba1ca8aeb181f1f749b8991239ab755662",
 			"description" : "release",
 			"force" : true	
 		}
