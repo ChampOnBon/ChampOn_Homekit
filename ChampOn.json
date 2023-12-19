@@ -108,9 +108,12 @@
 			"description" : "release"	
 		},
 		"release2":{
-			"version" : "2.5.12",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release2_SMS1.zip",
-			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release2_SMS1_mini.zip",
+			//"version" : "2.5.12",
+			"version" : "0.0.1",
+			//"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release2_SMS1.zip",
+			//"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS1/release2_SMS1_mini.zip",
+			"url" : "",
+			"url2" : "",
 			"description" : "release2",
 			"sha256" : "fb8f5277d381df647cc0b6f2a69d97ae799f74a9bb1a23e2a1f4e28e4ff1ec0a",
 			"sha256_2" : "491a868e2004788a5d9e1fad0d332bdfc1e2753de1b8c00328d3fa38227b2274"	
@@ -148,9 +151,12 @@
 			"description" : "release"	
 		},
 		"release2":{
-			"version" : "2.1.18",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1.zip",
-			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1_mini.zip",
+			//"version" : "2.1.18",
+			"version" : "0.0.1",
+			//"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1.zip",
+			//"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS1/release2_CS1_mini.zip",
+			"url" : "",
+			"url2" : "",
 			"description" : "release2",
 			"sha256" : "e11f238f3e67cabe5220b76f1b90065ac411678f3b69a1808687bf3b22c46926",
 			"sha256_2" : "48630f824249c7142469670b0602fd044a0b9be0d924b6c557ed66a7167c1a6e"
@@ -186,9 +192,12 @@
 			"sha256_2" : "decc3e3d5415f61856d0f5912614ec0120018a38f5cd954f8aa812bf5693bd6d"
 		},
 		"release2":{
-			"version" : "1.2.8",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2.zip",
-			"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2_mini.zip",
+			//"version" : "1.2.8",
+			"version" : "0.0.1",
+			//"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2.zip",
+			//"url2" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT2/release_CT2_mini.zip",
+			"url" : "",
+			"url2" : "",
 			"description" : "release",
 			"sha256" : "b0c9c35cc719930fb85f78b3d3a77f2697d1f1d348089d8a60f39bcf7cbd7859",
 			"sha256_2" : "decc3e3d5415f61856d0f5912614ec0120018a38f5cd954f8aa812bf5693bd6d"
