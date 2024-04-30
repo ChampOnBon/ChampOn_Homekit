@@ -316,5 +316,20 @@
 			"sha256" : "4110a5f77b7e8bc03a6abce9bda30644ae77c4c608db61e6f1f44230f56e5012",
 			"description" : "release"	
 		}
+	},
+	
+	"S4":{
+		"debug":{
+			"version" : "1.1.11-c85ba1e-dirty",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S4/debug.ota",
+			"sha256" : "c76b0af718d5b867dfd1e79f61ae1ca68ac33be67e595c71c3e24fe4e97ee688",
+			"description" : "debug"	
+		},
+		"release":{
+			"version" : "1.0.1",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/S4/release.ota",
+			"sha256" : "4110a5f77b7e8bc03a6abce9bda30644ae77c4c608db61e6f1f44230f56e5012",
+			"description" : "release"	
+		}
 	}
 }
