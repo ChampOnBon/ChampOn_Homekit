@@ -272,9 +272,9 @@
 	
 	"HS2":{
 		"debug":{
-			"version" : "1.8.1",
+			"version" : "1.9.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/HS2/debug.bin",
-			"sha256" : "d17c45f8c3c9e7710aeabdeb91d2bb42677e8d25ce4a29e602f28e79deb70720",
+			"sha256" : "4cfe3823594068de423fc53c1e1a46c478747d76e353f23e0f5df920090be304",
 			"description" : "debug",
 			"force" : true
 		},
@@ -289,9 +289,9 @@
 	
 	"SMS2":{
 		"debug":{
-			"version" : "1.8.1",
+			"version" : "1.9.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/SMS2/debug.bin",
-			"sha256" : "38cbf4498650c815f3781390dc11eaa465ebe30e5e9d00f4f48987e48e1d2d4f",
+			"sha256" : "175f50fff9bf871d76faec6d4660aff4369010459d9c5f6a56b06af5862d0305",
 			"description" : "debug",
 			"force" : true
 		},
