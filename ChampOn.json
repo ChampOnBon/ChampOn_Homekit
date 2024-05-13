@@ -255,16 +255,16 @@
 	
 	"CT3":{
 		"debug":{
-			"version" : "1.11.2",
+			"version" : "1.11.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/debug.bin",
-			"sha256" : "443fe347d636375fe2864e1bb747cb6b8f71e87e3cb3c85595576fdc44db4fc1",
+			"sha256" : "9720423265f43030b3bbfa51d53a06e4956472525bbaec34bb8c7987547b0cbf",
 			"description" : "debug",
 			"force" : true
 		},
 		"release":{
-			"version" : "1.8.1",
+			"version" : "1.11.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CT3/release.bin",
-			"sha256" : "8039d140b28cd09fd8759419388a7adc8b53df460c60a54acdc5619c6ab873a8",
+			"sha256" : "9720423265f43030b3bbfa51d53a06e4956472525bbaec34bb8c7987547b0cbf",
 			"description" : "release",
 			"force" : false
 		}
