@@ -305,9 +305,9 @@
 	
 	"CS2":{
 		"debug":{
-			"version" : "1.5.9",
+			"version" : "1.6.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS2/debug.bin",
-			"sha256" : "a9abc3aa31f60e26e23caa94eb88be0eb61de0dbe38d216a0830babc4275ce7c",
+			"sha256" : "a8d00913fbc469efafe6fac9a16c443ec57632e380020d33c9ad69978a07df23",
 			"description" : "debug"	
 		},
 		"release":{
