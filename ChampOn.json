@@ -305,15 +305,15 @@
 	
 	"CS2":{
 		"debug":{
-			"version" : "1.6.3",
+			"version" : "1.6.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS2/debug.bin",
-			"sha256" : "7f386a609a4d97c95bb10f7896ed2380261d8a436e890ba542295872994e267d",
+			"sha256" : "8e0177f539c609076ed9f64ed76fd674319d3905eb1edbbf3597da8249946411",
 			"description" : "debug"	
 		},
 		"release":{
-			"version" : "1.6.3",
+			"version" : "1.6.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS2/release.bin",
-			"sha256" : "7f386a609a4d97c95bb10f7896ed2380261d8a436e890ba542295872994e267d",
+			"sha256" : "8e0177f539c609076ed9f64ed76fd674319d3905eb1edbbf3597da8249946411",
 			"description" : "release"	
 		}
 	},
