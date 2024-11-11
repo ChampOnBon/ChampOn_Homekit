@@ -311,7 +311,7 @@
 			"description" : "debug"	
 		},
 		"release":{
-			"version" : "1.7.1",
+			"version" : "0.0.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/CS2/release.bin",
 			"sha256" : "a1c548c5f3aa68bea8e48e97e3139be672b624db36cc6c37d50886b7f13d90d3",
 			"description" : "release"	
