@@ -1,4 +1,12 @@
 {
+	"Pi-Switch": {
+    			"debug": {
+      					"version": "1.5.0",
+      					"url": "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/Pi-Switch/dfu_application.zip",
+      					"sha256": "c67c3506ddc89fd756cfe301372ff1f6c6531d257439b0987dbb3ace9e77fd8d",
+      					"description": "Pi-Switch 1.5.0 BLE SMP OTA 测试"
+    					}
+  	},
 	"S1":{
 		"debug":{
 			"version" : "1.0.0",
